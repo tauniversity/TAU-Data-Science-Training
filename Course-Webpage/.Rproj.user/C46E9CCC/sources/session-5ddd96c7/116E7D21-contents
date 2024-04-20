@@ -1,0 +1,170 @@
+---
+title: "Data Science Training Software Requirement"
+description: | 
+  This content contains softwares requirement for the data science training programme at Thomas Adewumi University, Kwara, Nigeria.
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+author:
+  - name: Fellow Ezekiel Ogundepo
+    url: https://bit.ly/gbganalyst
+    affiliation: Global Partnership for Sustainable Development
+    affiliation-url: https://www.data4sdgs.org/
+toc: true
+toc-title: "On this page"
+toc-location: left
+number-sections: false
+highlight-style: pygments
+format: 
+  html:
+    theme: cosmo
+    page-layout: full # custom #article,
+    code-fold: false
+    code-tools: true
+    df-print: paged
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+editor: visual
+execute:
+  error: true
+  eval: false
+  echo: true #fenced
+  freeze: auto
+knitr:
+  opts_chunk:
+    comment: "#>"
+    #collapse: true
+    tidy: 'styler'
+    message: false
+    warning: false
+    wrap: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .instructor-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .instructor {
+    flex-basis: 30%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .instructor img {
+    width: 100%; /* Adjust based on preference */
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .instructor h3 {
+    color: #333;
+  }
+  
+  .instructor p {
+    font-size: 14px;
+    color: #666;
+  }
+</style>
+
+
+
+::: callout-note
+The hyperlinks featured on this webpage navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its proper functionality and ensure that it launches and operates as expected.
+:::
+
+
+# Power BI
+
+To install PowerBI, follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) then choose `PBIDesktopSetup_x64.exe`.
+
+# Excel and Google Sheets
+
+Please make sure your computer has Office 365 or Office 2016 installed. For Google Sheets, you will use your university email.
+
+# R Programming 
+::: {.panel-tabset group="language"}
+## Install R
+
+You can install R on any operating system (OS):
+
+**For Windows** :
+
+-	Download R for Windows OS from this [link](https://cran.r-project.org/bin/windows/base/)
+
+-	Open the `.exe` file and install it.
+
+**For Mac** :
+
+Download R for Mac via this [link](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.3-arm64.pkg). Open the `.pkg` file and install it.
+
+**For Linux**:
+
+For complete R System installation in Linux, follow the instructions on this [link](https://cran.r-project.org/).
+
+For Ubuntu with Apt-get installed, execute `sudo apt-get install r-base` in the terminal.
+
+## Install RStudio
+
+You can install RStudio Click this [link](https://www.rstudio.com/products/rstudio/download/#download) to install RStudio, choose the appropriate installer file for your operating system, download it, and then run it to install RStudio.
+:::
+
+
+# Python
+
+## Anaconda Distribution
+
+You will need to install Anaconda distribution and you can get it by following this [link](https://www.anaconda.com/download/success).
+
+## VS code
+
+You will also need to install Visual Studio Code by following <https://code.visualstudio.com/download>, then choose your OS.
+
+
+
+# Git Bash
+
+To install version control system, please follow this [link](https://git-scm.com/downloads)
+
+
+
+# Meet Our Instructors
+
+<div class="instructor-container">
+
+<div class="instructor">
+  ![Instructor 1](images/ayodele.jpg)
+  **Dr. Jane Doe**  
+  _Statistical Analysis_  
+  Dr. Doe has over 10 years of experience in data science, focusing on statistical methods and R programming.
+</div>
+
+<div class="instructor">
+  ![Instructor 2](images/cenna.png)
+  **Prof. John Smith**  
+  _Machine Learning_  
+  Prof. Smith is a renowned expert in machine learning and artificial intelligence, with numerous publications in the field.
+</div>
+
+<div class="instructor">
+  ![Instructor 3](images/ezekiel.jpeg)
+  **Dr. Emily White**  
+  _Bioinformatics_  
+  Dr. White specializes in bioinformatics and computational biology, applying data analysis techniques to biological data.
+</div>
+
+</div>
+
+------------------------------------------------------------------------
+
+If you found this information helpful, please consider to follow me on [Twitter](https://twitter.com/gbganalyst) and [Linkedin](https://linkedin.com/in/ezekiel-ogundepo) for more updates on `R`, `Python`, and `Excel` for data science.
