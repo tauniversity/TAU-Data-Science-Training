@@ -1,7 +1,7 @@
 ---
 title: "Data Science Training Software Requirement"
 description: | 
-  This content contains softwares requirement for the data science training programme at Thomas Adewumi University, Kwara, Nigeria.
+  This webpage outlines the software requirements for the Data Science Training Program at Thomas Adewumi University, Kwara, Nigeria.
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author:
   - name: Fellow Ezekiel Ogundepo
