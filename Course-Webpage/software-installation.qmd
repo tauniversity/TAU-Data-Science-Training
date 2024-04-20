@@ -94,56 +94,71 @@ The hyperlinks featured on this webpage navigate to the official download pages 
 
 # Power BI
 
-To install PowerBI, follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) then choose `PBIDesktopSetup_x64.exe`.
+PowerBI is a powerful business analytics tool from Microsoft that enables users to visualize data, generate reports, and glean insights for informed decision-making.
+
+To install PowerBI, please follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and select the file named `PBIDesktopSetup_x64.exe` to begin the installation process.
+
 
 # Excel and Google Sheets
 
-Please make sure your computer has Office 365 or Office 2016 installed. For Google Sheets, you will use your university email.
+Microsoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualization, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.
+
+Please ensure your computer has Office 365 or Office 2016 installed for Excel. For Google Sheets, access is available through your university email.
 
 # R Programming 
+
+R Programming is a powerful language and environment for statistical computing and graphics. It is widely used among statisticians and data analysts for developing statistical software and data analysis. R offers a variety of statistical and graphical techniques, and is highly extensible.
+
 ::: {.panel-tabset group="language"}
 ## Install R
 
-You can install R on any operating system (OS):
+R programming can be installed on any operating system (OS):
 
-**For Windows** :
+**For Windows Users** :
 
--	Download R for Windows OS from this [link](https://cran.r-project.org/bin/windows/base/)
+To install R on a Windows operating system, please download the set up file from this [link](https://cran.r-project.org/bin/windows/base/). Once the download is complete, open the `.exe` file to begin the installation process.
 
--	Open the `.exe` file and install it.
+**For Mac Users** :
 
-**For Mac** :
+To download R for Mac, please click the following [link](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.3-arm64.pkg). Once the download is complete, open the .pkg file to begin the installation process.
 
-Download R for Mac via this [link](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.3-arm64.pkg). Open the `.pkg` file and install it.
+**For Linux Users**:
 
-**For Linux**:
+To install the complete R System on Linux, please follow the instructions provided on the [CRAN website](https://cran.r-project.org/).
 
-For complete R System installation in Linux, follow the instructions on this [link](https://cran.r-project.org/).
+For Ubuntu users with Apt-get installed, open your terminal and enter the following command: `sudo apt-get install r-base`.
 
-For Ubuntu with Apt-get installed, execute `sudo apt-get install r-base` in the terminal.
 
 ## Install RStudio
 
-You can install RStudio Click this [link](https://www.rstudio.com/products/rstudio/download/#download) to install RStudio, choose the appropriate installer file for your operating system, download it, and then run it to install RStudio.
+To install RStudio, please follow this [link](https://www.rstudio.com/products/rstudio/download/#download). Select the appropriate installer for your operating system, download the file, and run the installer to complete the setup of RStudio.
+
 :::
 
 
 # Python
 
+Python is a versatile, high-level programming language known for its simplicity and readability, making it ideal for beginners and experts alike. It supports multiple programming paradigms and is widely used in web development, data analysis, artificial intelligence, scientific computing, and more. Python's extensive libraries and community support enhance its functionality for a broad range of applications.
+
 ## Anaconda Distribution
 
-You will need to install Anaconda distribution and you can get it by following this [link](https://www.anaconda.com/download/success).
+Anaconda simplifies package management and deployment for Python and R, offering a suite of over 1,500 data science packages. It's an indispensable tool for maintaining consistent environments across various data science projects.
+
+To get started, please install the Anaconda distribution from the following [link](https://www.anaconda.com/download/success).
+
 
 ## VS code
 
-You will also need to install Visual Studio Code by following <https://code.visualstudio.com/download>, then choose your OS.
+Visual Studio Code (VS Code) is a lightweight but powerful source code editor that runs on your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other programming languages such as Python, PHP, and C++, among others. It's designed to be fast and efficient, yet highly customizable to fit the needs of any developer.
 
+To set up your environment, please install Visual Studio Code by following the link [here](https://code.visualstudio.com/download) and select the version appropriate for your operating system.
 
 
 # Git Bash
 
-To install version control system, please follow this [link](https://git-scm.com/downloads)
+Git Bash provides a Unix-like command line environment for Windows users, enabling them to use Git for version control seamlessly. It includes common Bash utilities and Git functionality, making it a crucial tool for developers managing source code.
 
+To install this version control system, please follow this [link](https://git-scm.com/downloads).
 
 
 # Meet Our Instructors
@@ -151,28 +166,29 @@ To install version control system, please follow this [link](https://git-scm.com
 <div class="instructor-container">
 
 <div class="instructor">
-  ![Instructor 1](images/ayodele.jpg)
-  [**Dr. Jane Doe**](#url-to-detailed-profile-of-jane-doe)  
-  _Statistical Analysis_  
-  Dr. Doe has over 10 years of experience in data science, focusing on statistical methods and R programming.
+  ![Instructor 1](images/Ezekiel-picture.png)
+  [**Ezekiel Ogundepo**](https://www.linkedin.com/in/gbganalyst)  
+  _Data Science_  
+  Fellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.
+
 </div>
 
 <div class="instructor">
-  ![Instructor 2](images/cenna.png)
-  [**Prof. John Smith**](#url-to-detailed-profile-of-john-smith)  
+  ![Instructor 2](images/ayodele.jpeg)
+  [**Mrs. Ayodele Awokoya**](https://www.linkedin.com/in/ayodeleawokoya/)  
   _Machine Learning_  
-  Prof. Smith is a renowned expert in machine learning and artificial intelligence, with numerous publications in the field.
+  Mrs Awokoya is a renowned expert in machine learning and artificial intelligence, with numerous publications in the field.
 </div>
 
 <div class="instructor">
-  ![Instructor 3](images/ezekiel.jpeg)
-  [**Dr. Emily White**](#url-to-detailed-profile-of-emily-white)  
-  _Bioinformatics_  
-  Dr. White specializes in bioinformatics and computational biology, applying data analysis techniques to biological data.
+  ![Instructor 3](images/david.jpg)
+  [**David Akanji**](https://www.linkedin.com/in/davidakanjii)  
+  _Data Analyst and Machine Learning_  
+ Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
 </div>
 
 </div>
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 If you found this information valuable, please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` in data science.
