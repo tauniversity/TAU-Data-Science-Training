@@ -31,7 +31,7 @@ Before beginning the course, please ensure you have the following software insta
 
 - **Excel**: Ensure you have the latest version of Microsoft Office installed.
 
-- **R**: [Download R](https://cran.r-project.org/mirrors.html) and optionally, [RStudio](https://rstudio.com/products/rstudio/download/).
+- **R**: [Download R](https://cran.r-project.org/mirrors.html) and [RStudio](https://rstudio.com/products/rstudio/download/).
 
 - **Python**: Install Python and necessary libraries via the [Anaconda distribution](https://www.anaconda.com/download/success).
 
