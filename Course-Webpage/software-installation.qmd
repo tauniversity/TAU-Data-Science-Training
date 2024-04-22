@@ -166,7 +166,7 @@ To install this version control system, please follow this [link](https://git-sc
 <div class="instructor-container">
 
 <div class="instructor">
-  ![Instructor 1](images/Ezekiel-picture.png)
+  ![Instructor 1](images/ezekiel.png)
   [**Ezekiel Ogundepo**](https://www.linkedin.com/in/gbganalyst)  
   _Data Science_  
   Fellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.
@@ -174,21 +174,28 @@ To install this version control system, please follow this [link](https://git-sc
 </div>
 
 <div class="instructor">
-  ![Instructor 2](images/ayodele.jpeg)
+  ![Instructor 2](images/ayodele.jpg)
   [**Mrs. Ayodele Awokoya**](https://www.linkedin.com/in/ayodeleawokoya/)  
   _Machine Learning_  
-  Mrs Awokoya is a renowned expert in machine learning and artificial intelligence, with numerous publications in the field.
+  Mrs Awokoya is a renowned Machine Learning/Natural Language Processing researcher and lecturer with several publications in the field.
 </div>
 
 <div class="instructor">
   ![Instructor 3](images/david.jpg)
   [**David Akanji**](https://www.linkedin.com/in/davidakanjii)  
   _Data Analyst and Machine Learning_  
- Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
+  Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
+</div>
+
+<div class="instructor">
+  ![Instructor 4](images/adeola.jpg)
+  [**Ms Adeola Lawal**](https://www.linkedin.com/in/adeola-lawal/)  
+  _Data Migration Specialist_  
+  Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over five years of experience in data migration, analysis, and project management.
 </div>
 
 </div>
 
------------------------------------------------------------------
+----------------------------------------------------
 
-If you found this information valuable, please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` in data science.
+If you found this information valuable, please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` for data science.

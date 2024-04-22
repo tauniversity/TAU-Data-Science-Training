@@ -1,4 +1,5 @@
+.ipynb_checkpoints
 .Rproj.user
 .Rhistory
-.RData
-.Ruserdata
+.Rdata
+Curriculum-for-Data Science/*.docx
