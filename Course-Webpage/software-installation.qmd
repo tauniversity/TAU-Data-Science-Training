@@ -49,18 +49,17 @@ The hyperlinks featured on this webpage navigate to the official download pages 
 :::
 
 
-# Power BI
-
-PowerBI is a powerful business analytics tool from Microsoft that enables users to visualize data, generate reports, and glean insights for informed decision-making.
-
-To install PowerBI, please follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and select the file named `PBIDesktopSetup_x64.exe` to begin the installation process.
-
-
 # Excel and Google Sheets
 
 Microsoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualization, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.
 
 Please ensure your computer has Office 365 or Office 2016 installed for Excel. For Google Sheets, access is available through your university email.
+
+# Power BI
+
+PowerBI is a powerful business analytics tool from Microsoft that enables users to visualize data, generate reports, and glean insights for informed decision-making.
+
+To install PowerBI, please follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and select the file named `PBIDesktopSetup_x64.exe` to begin the installation process.
 
 # R Programming 
 
