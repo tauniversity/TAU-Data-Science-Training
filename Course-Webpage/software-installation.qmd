@@ -1,12 +1,13 @@
 ---
 title: "Data Science Training Software Requirement"
 description: | 
-  This webpage outlines the software requirements for the Data Science Training Program at Thomas Adewumi University, Kwara, Nigeria.
+  This webpage outlines the software requirements for the Data Science Training 
+  Program at Thomas Adewumi University, Kwara, Nigeria.
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author:
   - name: Fellow Ezekiel Ogundepo
     url: https://bit.ly/gbganalyst
-    affiliation: Global Partnership for Sustainable Development
+    affiliation: Global Partnership for Sustainable Development Data
     affiliation-url: https://www.data4sdgs.org/
 toc: true
 toc-title: "On this page"
@@ -45,7 +46,9 @@ css: style.css
 [![](images/logo.png)](https://tau.edu.ng/){fig-alt="Thomas Adewumi University logo" fig-align="left" width=40%}
 
 ::: callout-note
-The hyperlinks featured on this webpage navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its proper functionality and ensure that it launches and operates as expected.
+The hyperlinks featured on this webpage navigate to the official download pages 
+for the respective software applications. After installation, please initiate the software to confirm its proper functionality and ensure that it launches and 
+operates as expected.
 :::
 
 
