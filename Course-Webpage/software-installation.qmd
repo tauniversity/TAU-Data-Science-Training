@@ -153,6 +153,14 @@ To install this version control system, please follow this [link](https://git-sc
   Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over five years of experience in data migration, analysis, and project management.
 </div>
 
+
+<div class="instructor">
+  ![Instructor 4](images/sola.jpg)
+  [**Mr OluSola Ogundepo**](https://www.linkedin.com/in/comsavvy)  
+  _Data Scientist_  
+  With over three years of expertise, Olusola, an experienced data scientist, analyses datasets using Python and PowerBI, deriving actionable insights.
+</div>
+
 </div>
 
 ----------------------------------------------------
