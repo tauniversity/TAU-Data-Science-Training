@@ -134,7 +134,7 @@ To install this version control system, please follow this [link](https://git-sc
 
 <div class="instructor">
   ![Instructor 2](images/ayodele.jpg)
-  [**Mrs. Ayodele Awokoya**](https://www.linkedin.com/in/ayodeleawokoya/)  
+  [**Ayodele Awokoya**](https://www.linkedin.com/in/ayodeleawokoya/)  
   _Machine Learning_  
   Mrs Awokoya is a renowned Machine Learning/Natural Language Processing researcher and lecturer with several publications in the field.
 </div>
@@ -142,7 +142,7 @@ To install this version control system, please follow this [link](https://git-sc
 <div class="instructor">
   ![Instructor 3](images/david.jpg)
   [**David Akanji**](https://www.linkedin.com/in/davidakanjii)  
-  _Data Analyst and Machine Learning_  
+  _Data Analyst & Machine Learning_  
   Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
 </div>
 
@@ -156,8 +156,8 @@ To install this version control system, please follow this [link](https://git-sc
 
 <div class="instructor">
   ![Instructor 4](images/sola.jpg)
-  [**OluSola Ogundepo**](https://www.linkedin.com/in/comsavvy)  
-  _Data Scientist_  
+  [**Olusola Ogundepo**](https://www.linkedin.com/in/comsavvy)  
+  _Data Science_  
   Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modeling.
 </div>
 
