@@ -1,8 +1,7 @@
 ---
-title: "Data Science Training Software Requirement"
+title: "AI General Assembly Training Programme"
 description: | 
-  This webpage outlines the software requirements for the Data Science Training 
-  Program at Thomas Adewumi University, Kwara, Nigeria.
+  This webpage outlines the tools and software requirements for the data science training program at Thomas Adewumi University, Kwara, Nigeria.
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author:
   - name: Fellow Ezekiel Ogundepo
@@ -159,6 +158,13 @@ To install this version control system, please follow this [link](https://git-sc
   [**Olusola Ogundepo**](https://www.linkedin.com/in/comsavvy)  
   _Data Science_  
   Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modeling.
+</div>
+
+<div class="instructor">
+  ![Instructor 4](images/rose.jpg)
+  [**Roseline Ogundokun**](https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121)  
+  _Data Science_  
+  Dr Roseline has 9 years experience as a Lecturer and Researcher focusing on Artificial Intelligence, Computer Vision and Medical Imaging.
 </div>
 
 </div>
