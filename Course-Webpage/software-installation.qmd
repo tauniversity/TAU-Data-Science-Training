@@ -161,7 +161,7 @@ To install this version control system, please follow this [link](https://git-sc
 </div>
 
 <div class="instructor">
-  ![Instructor 4](images/rose.jpg)
+  ![Instructor 5](images/rose.jpg)
   [**Roseline Ogundokun**](https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121)  
   _Data Science_  
   Dr Roseline has 9 years experience as a Lecturer and Researcher focusing on Artificial Intelligence, Computer Vision and Medical Imaging.
