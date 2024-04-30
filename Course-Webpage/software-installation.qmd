@@ -160,6 +160,7 @@ To install this version control system, please follow this [link](https://git-sc
   Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modeling.
 </div>
 
+
 <div class="instructor">
   ![Instructor 5](images/rose.jpg)
   [**Roseline Ogundokun**](https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121)  
