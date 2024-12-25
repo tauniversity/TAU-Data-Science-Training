@@ -1,7 +1,7 @@
 ---
 title: "AI General Assembly 2025 Training Programme"
 description: | 
-  This webpage outlines the tools and software requirements for the data science training program at Thomas Adewumi University, Kwara, Nigeria.
+  This webpage outlines the curriculum, tools and software requirements for the data science training program at Thomas Adewumi University, Kwara, Nigeria.
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 author:
   - name: Ezekiel Ogundepo
@@ -42,19 +42,24 @@ editor_options:
 css: style.css
 ---
 
-::: {.figure .text-center}
-[![](images/logo.png)](https://tau.edu.ng/){fig-alt="Thomas Adewumi University logo" width=40%}
-:::
+
+<div style="text-align: center;">
+  <a href="https://tau.edu.ng/">
+    <img src="images/logo.png" alt="Thomas Adewumi University logo" style="width:40%;" />
+  </a>
+</div>
+
 
 # Course Overview
 
-Welcome to the AI General Assembly Training Programme at Thomas Adewumi University, Nigeria. The curriculum is meticulously designed to equip you with essential 21st-century skills, ensuring you are well-prepared for the evolving job market. Below is an introduction to each of the modules offered in this programme:
+Welcome to the AI General Assembly 2025 Training Programme at Thomas Adewumi University, Kwara, Nigeria. This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises the practical application of cutting-edge AI tools to enhance productivity, foster creativity, and prepare you for the dynamic job market of tomorrow. Below is an introduction to each of the modules offered in this programme:
+
 
 ## Data Analytics using Excel
 
 **Unlock the Power of Spreadsheets**
 
-Excel remains a cornerstone tool in data analysis, renowned for its versatility and robust functionality. This course delves deep into Excel's advanced features, enabling you to manage, analyze, and visualize data effectively.
+Excel remains a cornerstone tool in data analysis, renowned for its versatility and robust functionality. This course delves deep into Excel's advanced features, enabling you to effectively manage, analyse, and visualise data.
 
 **What You'll Gain:**
 
@@ -66,14 +71,14 @@ Excel remains a cornerstone tool in data analysis, renowned for its versatility 
 
 - Techniques for automating data cleaning tasks using Power Query.
 
-- Ability to design dynamic dashboards for insightful data visualization
+- Ability to design dynamic dashboards for insightful data visualisation
 
 
 ## Data Analytics using R
 
 **Harness the Potential of Statistical Computing**
 
-R is a powerful language tailored for statistical analysis and data visualization. This course provides a comprehensive introduction to R, equipping you with the tools to perform sophisticated data analyses and create compelling visual representations.
+R is a powerful language tailored for statistical analysis and data visualisation. This course provides a comprehensive introduction to R, equipping you with the tools to perform sophisticated data analyses and create compelling visual representations.
 
 **What You'll Gain:**
 
@@ -81,9 +86,9 @@ R is a powerful language tailored for statistical analysis and data visualizatio
 
 - Expertise in data manipulation using packages like dplyr and tidyr
 
-- Skills in statistical modeling and hypothesis testing
+- Skills in statistical modelling and hypothesis testing
 
-- Ability to create advanced visualizations with ggplot2
+- Ability to create advanced visualisations with ggplot2
 
 - Knowledge of reproducible research practices using Quarto
 
@@ -91,7 +96,7 @@ R is a powerful language tailored for statistical analysis and data visualizatio
 
 **Build Intelligent Systems**
 
-Python is the go-to language for machine learning and artificial intelligence. This course introduces you to the foundational concepts of machine learning, guiding you through the development of predictive models and intelligent applications.
+Python is the go-to language for machine learning and artificial intelligence. This course introduces you to the foundational concepts of machine learning and guides you through the development of predictive models and intelligent applications.
 
 **What You'll Gain:**
 
@@ -109,15 +114,15 @@ Python is the go-to language for machine learning and artificial intelligence. T
 
 **Transform Data into Actionable Insights**
 
-Power BI is a leading business analytics tool that empowers you to visualize data and share insights across your organization. This course teaches you how to leverage Power BI to create interactive reports and dashboards that drive informed decision-making.
+Power BI is a leading business analytics tool that empowers you to visualise data and share insights across your organisation. This course teaches you how to leverage Power BI to create interactive reports and dashboards that drive informed decision-making.
 
 **What You'll Gain:**
 
 - Proficiency in connecting and importing data from various sources
 
-- Skills in data modeling and relationship management
+- Skills in data modelling and relationship management
 
-- Ability to design and customize interactive visualizations
+- Ability to design and customise interactive visualisations
 
 - Techniques for sharing and collaborating on Power BI reports
 
@@ -127,7 +132,7 @@ Power BI is a leading business analytics tool that empowers you to visualize dat
 
 **Unlocking AI Power: Essential Tools for Productivity and Creativity**
 
-Artificial Intelligence is at the forefront of revolutionizing various sectors by enhancing productivity, optimizing financial processes, and advancing healthcare solutions. This course introduces you to essential AI platforms such as ChatGPT, NotebookLM, Gemini, and Gamma, demonstrating their advanced applications to boost productivity and foster creativity.
+Artificial Intelligence is at the forefront of revolutionising various sectors by enhancing productivity, optimising financial processes, and advancing healthcare solutions. This course introduces you to essential AI platforms such as ChatGPT, NotebookLM, Gemini, and Gamma, demonstrating their advanced applications to boost productivity and foster creativity.
 
 **What You'll Gain:**
 
@@ -135,19 +140,19 @@ Artificial Intelligence is at the forefront of revolutionizing various sectors b
 
 - **Boosted Productivity:** Integrate AI to automate tasks and streamline workflows.
 
-- **Creative AI Applications:** Utilize AI for content creation, design, and innovative problem-solving.
+- **Creative AI Applications:** Utilise AI for content creation, design, and innovative problem-solving.
 
 - **Industry-Specific Solutions:** Understand AI's impact on finance, healthcare, and business operations.
 
 - **Practical Experience:** Apply AI tools through hands-on projects and real-world case studies.
 
-- **Ethical AI Practices:** Implement AI responsibly with a focus on ethical considerations.
+- **Ethical AI Practices:** Implement AI responsibly, focusing on ethical considerations.
 
-## LinkedIn Optimization
+## LinkedIn Optimisation
 
 **Enhance Your Professional Presence**
 
-LinkedIn is a vital platform for career advancement and networking. This course guides you through optimizing your LinkedIn profile to attract potential employers, showcase your skills, and expand your professional network effectively.
+LinkedIn is a vital platform for career advancement and networking. This course guides you through optimising your LinkedIn profile to attract potential employers, showcase your skills, and expand your professional network effectively.
 
 **What You'll Gain:**
 
@@ -165,13 +170,13 @@ LinkedIn is a vital platform for career advancement and networking. This course 
 
 **Launch and Grow Your Digital Enterprise**
 
-In today's digital age, effective marketing is crucial for business success. This course covers the essentials of digital marketing, equipping you with the skills to create, implement, and manage successful online marketing strategies for your business ventures.
+Effective marketing is crucial for business success in today's digital age. This course covers digital marketing essentials, equipping you with the skills to create, implement, and manage successful online marketing strategies for your business ventures.
 
 **What You'll Gain:**
 
 - Understanding of digital marketing fundamentals and strategies
 
-- Skills in search engine optimization (SEO) and search engine marketing (SEM)
+- Skills in search engine optimisation (SEO) and search engine marketing (SEM)
 
 - Proficiency in social media marketing and content creation
 
@@ -184,29 +189,29 @@ In today's digital age, effective marketing is crucial for business success. Thi
 # Software Installation
 
 ::: callout-note
-The hyperlinks featured on this webpage navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its proper functionality and ensure that it launches and operates as expected.
+The hyperlinks on this webpage will help you navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its functionality and ensure it launches and operates as expected.
 :::
 
 ## Excel and Google Sheets
 
-Microsoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualization, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.
+Microsoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualisation, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.
 
-Please ensure your computer has Office 365 or Office 2016 installed for Excel. For Google Sheets, access is available through your university email.
+Please ensure your computer has Office 365 or Office 2016 installed for Excel. Access to Google Sheets is available through your university email.
 
 ## Power BI
 
-PowerBI is a powerful business analytics tool from Microsoft that enables users to visualize data, generate reports, and glean insights for informed decision-making.
+PowerBI is a powerful business analytics tool from Microsoft that enables users to visualise data, generate reports, and glean insights for informed decision-making.
 
 To install PowerBI, please follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and select the file named `PBIDesktopSetup_x64.exe` to begin the installation process.
 
 ## R Programming
 
-R Programming is a powerful language and environment for statistical computing and graphics. It is widely used among statisticians and data analysts for developing statistical software and data analysis. R offers a variety of statistical and graphical techniques, and is highly extensible.
+R Programming is a powerful language and environment for statistical computing and graphics. It is widely used among statisticians and data analysts to develop statistical software and data analysis. R offers a variety of statistical and graphical techniques and is highly extensible.
 
 ::: {.panel-tabset group="language"}
 ### Install R
 
-R programming can be installed on any operating system (OS):
+You can install R programming on any operating system (OS):
 
 **For Windows Users** :
 
@@ -218,9 +223,9 @@ To download R for Mac, please click the following [link](https://cran.r-project.
 
 **For Linux Users**:
 
-To install the complete R System on Linux, please follow the instructions provided on the [CRAN website](https://cran.r-project.org/).
+To install the complete R System on Linux, please follow the instructions on the [CRAN website](https://cran.r-project.org/).
 
-For Ubuntu users with Apt-get installed, open your terminal and enter the following command: `sudo apt-get install r-base`.
+For Ubuntu users with Apt-get installed, open your terminal and enter the command `sudo apt-get install r-base`.
 
 ### Install RStudio
 
@@ -229,23 +234,23 @@ To install RStudio, please follow this [link](https://www.rstudio.com/products/r
 
 ## Python
 
-Python is a versatile, high-level programming language known for its simplicity and readability, making it ideal for beginners and experts alike. It supports multiple programming paradigms and is widely used in web development, data analysis, artificial intelligence, scientific computing, and more. Python's extensive libraries and community support enhance its functionality for a broad range of applications.
+Python is a versatile, high-level programming language known for its simplicity and readability, making it ideal for beginners and experts. It supports multiple programming paradigms and is widely used in web development, data analysis, artificial intelligence, scientific computing, and more. Python's extensive libraries and community support enhance its functionality for various applications.
 
 ### Anaconda Distribution
 
-Anaconda simplifies package management and deployment for Python and R, offering a suite of over 1,500 data science packages. It's an indispensable tool for maintaining consistent environments across various data science projects.
+Anaconda simplifies package management and deployment for Python and R, offering over 1,500 data science packages. It's indispensable for maintaining consistent environments across various data science projects.
 
 To get started, please install the Anaconda distribution from the following [link](https://www.anaconda.com/download/success).
 
 ### VS Code
 
-Visual Studio Code (VS Code) is a lightweight but powerful source code editor that runs on your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other programming languages such as Python, PHP, and C++, among others. It's designed to be fast and efficient, yet highly customizable to fit the needs of any developer.
+Visual Studio Code (VS Code) is a lightweight but powerful source code editor for your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other programming languages, such as Python, PHP, and C++. It's designed to be fast and efficient yet highly customisable to fit the needs of any developer.
 
 To set up your environment, please install Visual Studio Code by following the link [here](https://code.visualstudio.com/download) and select the version appropriate for your operating system.
 
 ## Git Bash
 
-Git Bash provides a Unix-like command line environment for Windows users, enabling them to use Git for version control seamlessly. It includes common Bash utilities and Git functionality, making it a crucial tool for developers managing source code.
+Git Bash provides a Unix-like command line environment for Windows users, enabling them to use Git for version control seamlessly. It includes standard Bash utilities and Git functionality, making it a crucial tool for developers managing source code.
 
 To install this version control system, please follow this [link](https://git-scm.com/downloads).
 
@@ -253,7 +258,7 @@ To install this version control system, please follow this [link](https://git-sc
 
 :::::::::::::::: instructor-container
 ::: instructor
-![Instructor 1](images/ezekiel.png) [**Ezekiel Ogundepo**](https://www.linkedin.com/in/gbganalyst)\
+![Instructor 1](images/ezekiel.jpg) [**Ezekiel Ogundepo**](https://www.linkedin.com/in/gbganalyst)\
 *Data Science*\
 Fellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.
 :::
@@ -267,7 +272,7 @@ Mrs. Awokoya is a renowned Machine Learning/Natural Language Processing research
 ::: instructor
 ![Instructor 3](images/david.jpg) [**David Akanji**](https://www.linkedin.com/in/davidakanjii)\
 *Data Analyst & Machine Learning*\
-Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
+Mr. David has over 5 years of experience in data science, specialising in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
 :::
 
 ::: instructor
@@ -279,7 +284,7 @@ Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over f
 ::: instructor
 ![Instructor 4](images/sola.jpg) [**Olusola Ogundepo**](https://www.linkedin.com/in/comsavvy)\
 *Data Science*\
-Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modeling.
+Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modelling.
 :::
 
 ::: instructor
