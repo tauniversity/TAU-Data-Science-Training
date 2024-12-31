@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AI General Assembly 2025"
+  navbar:
+    logo: /images/logo.png
+    background: secondary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: software.qmd
+        text: Software Installation
+      - href: instructors.qmd
+        text: Instructors
+  page-footer: 
+    left: "Copyright 2024, Ezekiel Ogundepo" 
+    right: 
+      - icon: globe
+        href: https://gbganalyst.github.io
+      - icon: twitter 
+        href: https://twitter.com/gbganalyst 
+    background: light
+  
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+# Social Metadata
+  favicon: images/logo.png
+  twitter-card: 
+    creator: "@gbganalyst"
+    image: "/images/logo.png"
+    
+  open-graph: 
+    image: "/images/logo.png"
+    locale: en_US
+# Announcement Bar
+  announcement:
+    icon: megaphone
+    dismissable: true
+    content: "The registration process is now open. You can apply for the modules that best suit your career or interests [here](https://forms.gle/MtTXSeEYojmNCYnP8)."
+    type: info
+    position: above-navbar
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

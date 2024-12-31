@@ -1,0 +1,185 @@
+# Meet Our Instructors
+
+<!-- Instructor 1 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/ezekiel.png" 
+       alt="Ezekiel Ogundepo" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Ezekiel Ogundepo
+    <a href="https://www.linkedin.com/in/gbganalyst" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Data Science</em>
+  <p style="margin-top:0.5rem;">
+    Fellow Ezekiel has over 10 years of experience in data science, 
+    focusing on statistical methods and research software engineering.
+  </p>
+</div>
+
+<!-- Instructor 2 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/ayodele.jpg" 
+       alt="Ayodele Awokoya" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Ayodele Awokoya
+    <a href="https://www.linkedin.com/in/ayodeleawokoya/" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Machine Learning</em>
+  <p style="margin-top:0.5rem;">
+    Mrs Awokoya is a renowned Machine Learning/Natural Language Processing researcher and 
+    lecturer with several publications in the field.
+  </p>
+</div>
+
+<!-- Instructor 3 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/david.jpg" 
+       alt="David Akanji" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    David Akanji
+    <a href="https://www.linkedin.com/in/davidakanjii" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Data Analyst &amp; Machine Learning</em>
+  <p style="margin-top:0.5rem;">
+    Mr. David has over 5 years of experience in data science, specializing in 
+    statistical methods, experimental design, geospatial, and business analysis 
+    using R, Python, and Power BI.
+  </p>
+</div>
+
+<!-- Instructor 4 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/adeola.jpg" 
+       alt="Adeola Lawal" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Adeola Lawal
+    <a href="https://www.linkedin.com/in/adeola-lawal/" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Data Migration Specialist</em>
+  <p style="margin-top:0.5rem;">
+    Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over five 
+    years of experience in data migration, analysis, and project management.
+  </p>
+</div>
+
+<!-- Instructor 5 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/sola.jpg" 
+       alt="Olusola Ogundepo" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Olusola Ogundepo
+    <a href="https://www.linkedin.com/in/comsavvy" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Data Science</em>
+  <p style="margin-top:0.5rem;">
+    Olusola is an experienced data scientist with three years of expertise, 
+    skilled in analyzing data with tools like PowerBI and Python and crafting predictive modeling.
+  </p>
+</div>
+
+<!-- Instructor 6 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/roseline.jpg" 
+       alt="Roseline Ogundokun" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Roseline Ogundokun
+    <a href="https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Data Science</em>
+  <p style="margin-top:0.5rem;">
+    Dr. Roseline has 9 years experience as a Lecturer and Researcher focusing on 
+    Artificial Intelligence, Computer Vision, and Medical Imaging.
+  </p>
+</div>
+
+<!-- Instructor 7 -->
+<div style="margin-bottom:2rem;">
+  <img 
+       src="images/sam1.jpg" 
+       alt="Farohunbi Samuel" 
+       style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "
+  />
+  <h3 style="margin: 0.5rem 0 0.25rem;">
+    Dr Farohunbi Samuel
+    <a href="https://www.linkedin.com/in/samuel-farohunbi/" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">&#x2197;</a>
+  </h3>
+  <em style="color: #777;">Biochemist</em>
+  <p style="margin-top:0.5rem;">
+    Dr. Farohunbi Samuel is a scholarly biochemist, a seasoned administrator, 
+    AI enthusiast, and tech founder. He has over 15 years of experience 
+    as a digital marketer and techpreneur.
+  </p>
+</div>

@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "AI General Assembly 2025",
+    "section": "",
+    "text": "Note\n\n\n\nThe hyperlinks on this webpage will help you navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its functionality and ensure it launches and operates as expected."
+  },
+  {
+    "objectID": "software.html#excel-and-google-sheets",
+    "href": "software.html#excel-and-google-sheets",
+    "title": "AI General Assembly 2025",
+    "section": "Excel and Google Sheets",
+    "text": "Excel and Google Sheets\nMicrosoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualisation, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.\nPlease ensure your computer has Office 365 or Office 2016 installed for Excel. Access to Google Sheets is available through your university email."
+  },
+  {
+    "objectID": "software.html#power-bi",
+    "href": "software.html#power-bi",
+    "title": "AI General Assembly 2025",
+    "section": "Power BI",
+    "text": "Power BI\nPowerBI is a powerful business analytics tool from Microsoft that enables users to visualise data, generate reports, and glean insights for informed decision-making.\nTo install PowerBI, please follow this link and select the file named PBIDesktopSetup_x64.exe to begin the installation process."
+  },
+  {
+    "objectID": "software.html#r-programming",
+    "href": "software.html#r-programming",
+    "title": "AI General Assembly 2025",
+    "section": "R Programming",
+    "text": "R Programming\nR Programming is a powerful language and environment for statistical computing and graphics. It is widely used among statisticians and data analysts to develop statistical software and data analysis. R offers a variety of statistical and graphical techniques and is highly extensible.\n\nInstall RInstall RStudio\n\n\nYou can install R programming on any operating system (OS):\nFor Windows Users :\nTo install R on a Windows operating system, please download the setup file from this link. Once the download is complete, open the .exe file to begin the installation process.\nFor Mac Users :\nTo download R for Mac, please click the following link. Once the download is complete, open the .pkg file to begin the installation process.\nFor Linux Users:\nTo install the complete R System on Linux, please follow the instructions on the CRAN website.\nFor Ubuntu users with Apt-get installed, open your terminal and enter the command sudo apt-get install r-base.\n\n\nTo install RStudio, please follow this link. Select the appropriate installer for your operating system, download the file, and run the installer to complete the setup of RStudio."
+  },
+  {
+    "objectID": "software.html#python",
+    "href": "software.html#python",
+    "title": "AI General Assembly 2025",
+    "section": "Python",
+    "text": "Python\nPython is a versatile, high-level programming language known for its simplicity and readability, making it ideal for beginners and experts. It supports multiple programming paradigms and is widely used in web development, data analysis, artificial intelligence, scientific computing, and more. Python’s extensive libraries and community support enhance its functionality for various applications.\n\nAnaconda Distribution\nAnaconda simplifies package management and deployment for Python and R, offering over 1,500 data science packages. It’s indispensable for maintaining consistent environments across various data science projects.\nTo get started, please install the Anaconda distribution from the following link.\n\n\nVS Code\nVisual Studio Code (VS Code) is a lightweight but powerful source code editor for your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other programming languages, such as Python, PHP, and C++. It’s designed to be fast and efficient yet highly customisable to fit the needs of any developer.\nTo set up your environment, please install Visual Studio Code by following the link here and select the version appropriate for your operating system."
+  },
+  {
+    "objectID": "software.html#git-bash",
+    "href": "software.html#git-bash",
+    "title": "AI General Assembly 2025",
+    "section": "Git Bash",
+    "text": "Git Bash\nGit Bash provides a Unix-like command line environment for Windows users, enabling them to use Git for version control seamlessly. It includes standard Bash utilities and Git functionality, making it a crucial tool for developers managing source code.\nTo install this version control system, please follow this link."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI General Assembly 2025",
+    "section": "",
+    "text": "Welcome to the AI General Assembly 2025 Training Programme at Thomas Adewumi University, Kwara, Nigeria. This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises the practical application of cutting-edge AI tools to enhance productivity, foster creativity, and prepare you for the dynamic job market of tomorrow. Below is an introduction to each of the modules offered in this programme:"
+  },
+  {
+    "objectID": "index.html#data-analytics-using-excel",
+    "href": "index.html#data-analytics-using-excel",
+    "title": "AI General Assembly 2025",
+    "section": "Data Analytics using Excel",
+    "text": "Data Analytics using Excel\nUnlock the Power of Spreadsheets\nExcel remains a cornerstone tool in data analysis, renowned for its versatility and robust functionality. This course delves deep into Excel’s advanced features, enabling you to effectively manage, analyse, and visualise data.\nWhat You’ll Gain:\n\nMastery of Excel formulas and functions for complex calculations\nProficiency in creating and managing pivot tables and pivot charts\nSkills in data cleaning, transformation, and preprocessing\nTechniques for automating data cleaning tasks using Power Query.\nAbility to design dynamic dashboards for insightful data visualisation"
+  },
+  {
+    "objectID": "index.html#data-analytics-using-r",
+    "href": "index.html#data-analytics-using-r",
+    "title": "AI General Assembly 2025",
+    "section": "Data Analytics using R",
+    "text": "Data Analytics using R\nHarness the Potential of Statistical Computing\nR is a powerful language tailored for statistical analysis and data visualisation. This course provides a comprehensive introduction to R, equipping you with the tools to perform sophisticated data analyses and create compelling visual representations.\nWhat You’ll Gain:\n\nUnderstanding of R programming fundamentals and syntax\nExpertise in data manipulation using packages like dplyr and tidyr\nSkills in statistical modelling and hypothesis testing\nAbility to create advanced visualisations with ggplot2\nKnowledge of reproducible research practices using Quarto"
+  },
+  {
+    "objectID": "index.html#machine-learning-with-python",
+    "href": "index.html#machine-learning-with-python",
+    "title": "AI General Assembly 2025",
+    "section": "Machine Learning with Python",
+    "text": "Machine Learning with Python\nBuild Intelligent Systems\nPython is the go-to language for machine learning and artificial intelligence. This course introduces you to the foundational concepts of machine learning and guides you through the development of predictive models and intelligent applications.\nWhat You’ll Gain:\n\nSolid grasp of Python programming for data science\nUnderstanding of key machine learning algorithms and their applications\nSkills in data preprocessing, feature engineering, and model evaluation\nExperience with popular libraries such as scikit-learn, TensorFlow, and Keras\nAbility to deploy machine learning models in real-world scenarios"
+  },
+  {
+    "objectID": "index.html#power-bi",
+    "href": "index.html#power-bi",
+    "title": "AI General Assembly 2025",
+    "section": "Power BI",
+    "text": "Power BI\nTransform Data into Actionable Insights\nPower BI is a leading business analytics tool that empowers you to visualise data and share insights across your organisation. This course teaches you how to leverage Power BI to create interactive reports and dashboards that drive informed decision-making.\nWhat You’ll Gain:\n\nProficiency in connecting and importing data from various sources\nSkills in data modelling and relationship management\nAbility to design and customise interactive visualisations\nTechniques for sharing and collaborating on Power BI reports\nKnowledge of Power BI service and its integration capabilities"
+  },
+  {
+    "objectID": "index.html#mastering-educational-ai-tools",
+    "href": "index.html#mastering-educational-ai-tools",
+    "title": "AI General Assembly 2025",
+    "section": "Mastering Educational AI Tools",
+    "text": "Mastering Educational AI Tools\nUnlocking AI Power: Essential Tools for Productivity and Creativity\nArtificial Intelligence is at the forefront of revolutionising various sectors by enhancing productivity, optimising financial processes, and advancing healthcare solutions. This course introduces you to essential AI platforms such as ChatGPT, NotebookLM, Gemini, and Gamma, demonstrating their advanced applications to boost productivity and foster creativity.\nWhat You’ll Gain:\n\nLearn to use leading tools like ChatGPT, NotebookLM, Gemini, and Gamma.\nIntegrate AI to automate tasks and streamline workflows.\nUtilise AI for content creation, design, and innovative problem-solving.\nUnderstand AI’s impact on finance, healthcare, and business operations.\nApply AI tools through hands-on projects and real-world case studies.\nImplement AI responsibly, focusing on ethical considerations."
+  },
+  {
+    "objectID": "index.html#linkedin-optimisation",
+    "href": "index.html#linkedin-optimisation",
+    "title": "AI General Assembly 2025",
+    "section": "LinkedIn Optimisation",
+    "text": "LinkedIn Optimisation\nEnhance Your Professional Presence\nLinkedIn is a vital platform for career advancement and networking. This course guides you through optimising your LinkedIn profile to attract potential employers, showcase your skills, and expand your professional network effectively.\nWhat You’ll Gain:\n\nStrategies for creating a compelling LinkedIn profile\nTechniques for showcasing your skills, experiences, and achievements\nInsights into building and engaging with a professional network\nTips for leveraging LinkedIn features for job searching and career growth\nBest practices for content sharing and personal branding on LinkedIn"
+  },
+  {
+    "objectID": "index.html#digital-marketing-and-business-venture",
+    "href": "index.html#digital-marketing-and-business-venture",
+    "title": "AI General Assembly 2025",
+    "section": "Digital Marketing and Business Venture",
+    "text": "Digital Marketing and Business Venture\nLaunch and Grow Your Digital Enterprise\nEffective marketing is crucial for business success in today’s digital age. This course covers digital marketing essentials, equipping you with the skills to create, implement, and manage successful online marketing strategies for your business ventures.\nWhat You’ll Gain:\n\nUnderstanding of digital marketing fundamentals and strategies\nSkills in search engine optimisation (SEO) and search engine marketing (SEM)\nProficiency in social media marketing and content creation\nKnowledge of email marketing, analytics, and performance measurement\nInsights into launching and managing digital business ventures\n\n\nPlease consider following me on Twitter and LinkedIn for more insights on R, Python, and Excel for data science."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Meet Our Instructors",
+    "section": "",
+    "text": "Meet Our Instructors\n\n\n\n\nEzekiel Ogundepo ↗\n\nData Science\n\nFellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.\n\n\n\n\n\n\nAyodele Awokoya ↗\n\nMachine Learning\n\nMrs Awokoya is a renowned Machine Learning/Natural Language Processing researcher and lecturer with several publications in the field.\n\n\n\n\n\n\nDavid Akanji ↗\n\nData Analyst & Machine Learning\n\nMr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.\n\n\n\n\n\n\nAdeola Lawal ↗\n\nData Migration Specialist\n\nMs. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over five years of experience in data migration, analysis, and project management.\n\n\n\n\n\n\nOlusola Ogundepo ↗\n\nData Science\n\nOlusola is an experienced data scientist with three years of expertise, skilled in analyzing data with tools like PowerBI and Python and crafting predictive modeling.\n\n\n\n\n\n\nRoseline Ogundokun ↗\n\nData Science\n\nDr. Roseline has 9 years experience as a Lecturer and Researcher focusing on Artificial Intelligence, Computer Vision, and Medical Imaging.\n\n\n\n\n\n\nDr Farohunbi Samuel ↗\n\nBiochemist\n\nDr. Farohunbi Samuel is a scholarly biochemist, a seasoned administrator, AI enthusiast, and tech founder. He has over 15 years of experience as a digital marketer and techpreneur.\n\n\n\n\n\n\n Back to top"
+  }
+]

@@ -42,18 +42,13 @@ editor_options:
 css: style.css
 ---
 
-
-<div style="text-align: center;">
-  <a href="https://tau.edu.ng/">
-    <img src="images/logo.png" alt="Thomas Adewumi University logo" style="width:40%;" />
-  </a>
-</div>
-
+::: {style="text-align: center;"}
+<a href="https://tau.edu.ng/"> <img src="images/logo.png" alt="Thomas Adewumi University logo" style="width:40%;"/> </a>
+:::
 
 # Course Overview
 
 Welcome to the AI General Assembly 2025 Training Programme at Thomas Adewumi University, Kwara, Nigeria. This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises the practical application of cutting-edge AI tools to enhance productivity, foster creativity, and prepare you for the dynamic job market of tomorrow. Below is an introduction to each of the modules offered in this programme:
-
 
 ## Data Analytics using Excel
 
@@ -63,16 +58,15 @@ Excel remains a cornerstone tool in data analysis, renowned for its versatility 
 
 **What You'll Gain:**
 
-- Mastery of Excel formulas and functions for complex calculations
+-   Mastery of Excel formulas and functions for complex calculations
 
-- Proficiency in creating and managing pivot tables and pivot charts
+-   Proficiency in creating and managing pivot tables and pivot charts
 
-- Skills in data cleaning, transformation, and preprocessing
+-   Skills in data cleaning, transformation, and preprocessing
 
-- Techniques for automating data cleaning tasks using Power Query.
+-   Techniques for automating data cleaning tasks using Power Query.
 
-- Ability to design dynamic dashboards for insightful data visualisation
-
+-   Ability to design dynamic dashboards for insightful data visualisation
 
 ## Data Analytics using R
 
@@ -82,15 +76,15 @@ R is a powerful language tailored for statistical analysis and data visualisatio
 
 **What You'll Gain:**
 
-- Understanding of R programming fundamentals and syntax
+-   Understanding of R programming fundamentals and syntax
 
-- Expertise in data manipulation using packages like dplyr and tidyr
+-   Expertise in data manipulation using packages like dplyr and tidyr
 
-- Skills in statistical modelling and hypothesis testing
+-   Skills in statistical modelling and hypothesis testing
 
-- Ability to create advanced visualisations with ggplot2
+-   Ability to create advanced visualisations with ggplot2
 
-- Knowledge of reproducible research practices using Quarto
+-   Knowledge of reproducible research practices using Quarto
 
 ## Machine Learning with Python
 
@@ -100,15 +94,15 @@ Python is the go-to language for machine learning and artificial intelligence. T
 
 **What You'll Gain:**
 
-- Solid grasp of Python programming for data science
+-   Solid grasp of Python programming for data science
 
-- Understanding of key machine learning algorithms and their applications
+-   Understanding of key machine learning algorithms and their applications
 
-- Skills in data preprocessing, feature engineering, and model evaluation
+-   Skills in data preprocessing, feature engineering, and model evaluation
 
-- Experience with popular libraries such as scikit-learn, TensorFlow, and Keras
+-   Experience with popular libraries such as scikit-learn, TensorFlow, and Keras
 
-- Ability to deploy machine learning models in real-world scenarios
+-   Ability to deploy machine learning models in real-world scenarios
 
 ## Power BI
 
@@ -118,15 +112,15 @@ Power BI is a leading business analytics tool that empowers you to visualise dat
 
 **What You'll Gain:**
 
-- Proficiency in connecting and importing data from various sources
+-   Proficiency in connecting and importing data from various sources
 
-- Skills in data modelling and relationship management
+-   Skills in data modelling and relationship management
 
-- Ability to design and customise interactive visualisations
+-   Ability to design and customise interactive visualisations
 
-- Techniques for sharing and collaborating on Power BI reports
+-   Techniques for sharing and collaborating on Power BI reports
 
-- Knowledge of Power BI service and its integration capabilities
+-   Knowledge of Power BI service and its integration capabilities
 
 ## Mastering Educational AI Tools
 
@@ -136,17 +130,17 @@ Artificial Intelligence is at the forefront of revolutionising various sectors b
 
 **What You'll Gain:**
 
-- Learn to use leading tools like ChatGPT, NotebookLM, Gemini, and Gamma.
+-   Learn to use leading tools like ChatGPT, NotebookLM, Gemini, and Gamma.
 
-- Integrate AI to automate tasks and streamline workflows.
+-   Integrate AI to automate tasks and streamline workflows.
 
-- Utilise AI for content creation, design, and innovative problem-solving.
+-   Utilise AI for content creation, design, and innovative problem-solving.
 
-- Understand AI's impact on finance, healthcare, and business operations.
+-   Understand AI's impact on finance, healthcare, and business operations.
 
-- Apply AI tools through hands-on projects and real-world case studies.
+-   Apply AI tools through hands-on projects and real-world case studies.
 
-- Implement AI responsibly, focusing on ethical considerations.
+-   Implement AI responsibly, focusing on ethical considerations.
 
 ## LinkedIn Optimisation
 
@@ -156,15 +150,15 @@ LinkedIn is a vital platform for career advancement and networking. This course 
 
 **What You'll Gain:**
 
-- Strategies for creating a compelling LinkedIn profile
+-   Strategies for creating a compelling LinkedIn profile
 
-- Techniques for showcasing your skills, experiences, and achievements
+-   Techniques for showcasing your skills, experiences, and achievements
 
-- Insights into building and engaging with a professional network
+-   Insights into building and engaging with a professional network
 
-- Tips for leveraging LinkedIn features for job searching and career growth
+-   Tips for leveraging LinkedIn features for job searching and career growth
 
-- Best practices for content sharing and personal branding on LinkedIn
+-   Best practices for content sharing and personal branding on LinkedIn
 
 ## Digital Marketing and Business Venture
 
@@ -174,17 +168,15 @@ Effective marketing is crucial for business success in today's digital age. This
 
 **What You'll Gain:**
 
-- Understanding of digital marketing fundamentals and strategies
+-   Understanding of digital marketing fundamentals and strategies
 
-- Skills in search engine optimisation (SEO) and search engine marketing (SEM)
+-   Skills in search engine optimisation (SEO) and search engine marketing (SEM)
 
-- Proficiency in social media marketing and content creation
+-   Proficiency in social media marketing and content creation
 
-- Knowledge of email marketing, analytics, and performance measurement
+-   Knowledge of email marketing, analytics, and performance measurement
 
-- Insights into launching and managing digital business ventures
-
-
+-   Insights into launching and managing digital business ventures
 
 # Software Installation
 
@@ -254,46 +246,8 @@ Git Bash provides a Unix-like command line environment for Windows users, enabli
 
 To install this version control system, please follow this [link](https://git-scm.com/downloads).
 
-# Meet Our Instructors
 
-:::::::::::::::: instructor-container
-::: instructor
-![Instructor 1](images/ezekiel.jpg) [**Ezekiel Ogundepo**](https://www.linkedin.com/in/gbganalyst)\
-*Data Science*\
-Fellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.
-:::
 
-::: instructor
-![Instructor 2](images/ayodele.jpg) [**Ayodele Awokoya**](https://www.linkedin.com/in/ayodeleawokoya/)\
-*Machine Learning*\
-Mrs. Awokoya is a renowned Machine Learning/Natural Language Processing researcher and lecturer with several publications in the field.
-:::
-
-::: instructor
-![Instructor 3](images/david.jpg) [**David Akanji**](https://www.linkedin.com/in/davidakanjii)\
-*Data Analyst & Machine Learning*\
-Mr. David has over 5 years of experience in data science, specialising in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
-:::
-
-::: instructor
-![Instructor 4](images/adeola.jpg) [**Adeola Lawal**](https://www.linkedin.com/in/adeola-lawal/)\
-*Data Migration Specialist*\
-Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over five years of experience in data migration, analysis, and project management.
-:::
-
-::: instructor
-![Instructor 4](images/sola.jpg) [**Olusola Ogundepo**](https://www.linkedin.com/in/comsavvy)\
-*Data Science*\
-Olusola is an experienced data scientist with three years of expertise, skilled in analysing data with tools like PowerBI and Python and crafting predictive modelling.
-:::
-
-::: instructor
-![Instructor 5](images/roseline.jpg) [**Roseline Ogundokun**](https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121)\
-*Data Science*\
-Dr. Roseline has 9 years of experience as a Lecturer and Researcher focusing on Artificial Intelligence, Computer Vision, and Medical Imaging.
-:::
-::::::::::::
-
-----------------------------------------------------
+------------------------------------------------------------------------
 
 Please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` for data science.

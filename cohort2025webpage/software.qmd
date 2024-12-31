@@ -1,0 +1,65 @@
+::: callout-note
+The hyperlinks on this webpage will help you navigate to the official download pages for the respective software applications. After installation, please initiate the software to confirm its functionality and ensure it launches and operates as expected.
+:::
+
+## Excel and Google Sheets
+
+Microsoft Excel and Google Sheets are powerful spreadsheet tools widely used for data analysis, visualisation, and complex calculations. Excel, part of the Microsoft Office suite, is renowned for its advanced features and robust functionality. Google Sheets, accessible through a web browser, offers real-time collaboration and compatibility across devices.
+
+Please ensure your computer has Office 365 or Office 2016 installed for Excel. Access to Google Sheets is available through your university email.
+
+## Power BI
+
+PowerBI is a powerful business analytics tool from Microsoft that enables users to visualise data, generate reports, and glean insights for informed decision-making.
+
+To install PowerBI, please follow this [link](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and select the file named `PBIDesktopSetup_x64.exe` to begin the installation process.
+
+## R Programming
+
+R Programming is a powerful language and environment for statistical computing and graphics. It is widely used among statisticians and data analysts to develop statistical software and data analysis. R offers a variety of statistical and graphical techniques and is highly extensible.
+
+::: {.panel-tabset group="language"}
+### Install R
+
+You can install R programming on any operating system (OS):
+
+**For Windows Users** :
+
+To install R on a Windows operating system, please download the setup file from this [link](https://cran.r-project.org/bin/windows/base/). Once the download is complete, open the `.exe` file to begin the installation process.
+
+**For Mac Users** :
+
+To download R for Mac, please click the following [link](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.3-arm64.pkg). Once the download is complete, open the `.pkg` file to begin the installation process.
+
+**For Linux Users**:
+
+To install the complete R System on Linux, please follow the instructions on the [CRAN website](https://cran.r-project.org/).
+
+For Ubuntu users with Apt-get installed, open your terminal and enter the command `sudo apt-get install r-base`.
+
+### Install RStudio
+
+To install RStudio, please follow this [link](https://www.rstudio.com/products/rstudio/download/#download). Select the appropriate installer for your operating system, download the file, and run the installer to complete the setup of RStudio.
+:::
+
+## Python
+
+Python is a versatile, high-level programming language known for its simplicity and readability, making it ideal for beginners and experts. It supports multiple programming paradigms and is widely used in web development, data analysis, artificial intelligence, scientific computing, and more. Python's extensive libraries and community support enhance its functionality for various applications.
+
+### Anaconda Distribution
+
+Anaconda simplifies package management and deployment for Python and R, offering over 1,500 data science packages. It's indispensable for maintaining consistent environments across various data science projects.
+
+To get started, please install the Anaconda distribution from the following [link](https://www.anaconda.com/download/success).
+
+### VS Code
+
+Visual Studio Code (VS Code) is a lightweight but powerful source code editor for your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other programming languages, such as Python, PHP, and C++. It's designed to be fast and efficient yet highly customisable to fit the needs of any developer.
+
+To set up your environment, please install Visual Studio Code by following the link [here](https://code.visualstudio.com/download) and select the version appropriate for your operating system.
+
+## Git Bash
+
+Git Bash provides a Unix-like command line environment for Windows users, enabling them to use Git for version control seamlessly. It includes standard Bash utilities and Git functionality, making it a crucial tool for developers managing source code.
+
+To install this version control system, please follow this [link](https://git-scm.com/downloads).

@@ -1,0 +1,138 @@
+::: {style="text-align: center;"}
+<a href="https://tau.edu.ng/"> <img src="images/logo.png" alt="Thomas Adewumi University logo" style="width:40%;"/> </a>
+:::
+
+Welcome to the AI General Assembly 2025 Training Programme at Thomas Adewumi University, Kwara, Nigeria. This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises the practical application of cutting-edge AI tools to enhance productivity, foster creativity, and prepare you for the dynamic job market of tomorrow. Below is an introduction to each of the modules offered in this programme:
+
+## Data Analytics using Excel
+
+**Unlock the Power of Spreadsheets**
+
+Excel remains a cornerstone tool in data analysis, renowned for its versatility and robust functionality. This course delves deep into Excel's advanced features, enabling you to effectively manage, analyse, and visualise data.
+
+**What You'll Gain:**
+
+-   Mastery of Excel formulas and functions for complex calculations
+
+-   Proficiency in creating and managing pivot tables and pivot charts
+
+-   Skills in data cleaning, transformation, and preprocessing
+
+-   Techniques for automating data cleaning tasks using Power Query.
+
+-   Ability to design dynamic dashboards for insightful data visualisation
+
+## Data Analytics using R
+
+**Harness the Potential of Statistical Computing**
+
+R is a powerful language tailored for statistical analysis and data visualisation. This course provides a comprehensive introduction to R, equipping you with the tools to perform sophisticated data analyses and create compelling visual representations.
+
+**What You'll Gain:**
+
+-   Understanding of R programming fundamentals and syntax
+
+-   Expertise in data manipulation using packages like dplyr and tidyr
+
+-   Skills in statistical modelling and hypothesis testing
+
+-   Ability to create advanced visualisations with ggplot2
+
+-   Knowledge of reproducible research practices using Quarto
+
+## Machine Learning with Python
+
+**Build Intelligent Systems**
+
+Python is the go-to language for machine learning and artificial intelligence. This course introduces you to the foundational concepts of machine learning and guides you through the development of predictive models and intelligent applications.
+
+**What You'll Gain:**
+
+-   Solid grasp of Python programming for data science
+
+-   Understanding of key machine learning algorithms and their applications
+
+-   Skills in data preprocessing, feature engineering, and model evaluation
+
+-   Experience with popular libraries such as scikit-learn, TensorFlow, and Keras
+
+-   Ability to deploy machine learning models in real-world scenarios
+
+## Power BI
+
+**Transform Data into Actionable Insights**
+
+Power BI is a leading business analytics tool that empowers you to visualise data and share insights across your organisation. This course teaches you how to leverage Power BI to create interactive reports and dashboards that drive informed decision-making.
+
+**What You'll Gain:**
+
+-   Proficiency in connecting and importing data from various sources
+
+-   Skills in data modelling and relationship management
+
+-   Ability to design and customise interactive visualisations
+
+-   Techniques for sharing and collaborating on Power BI reports
+
+-   Knowledge of Power BI service and its integration capabilities
+
+## Mastering Educational AI Tools
+
+**Unlocking AI Power: Essential Tools for Productivity and Creativity**
+
+Artificial Intelligence is at the forefront of revolutionising various sectors by enhancing productivity, optimising financial processes, and advancing healthcare solutions. This course introduces you to essential AI platforms such as ChatGPT, NotebookLM, Gemini, and Gamma, demonstrating their advanced applications to boost productivity and foster creativity.
+
+**What You'll Gain:**
+
+-   Learn to use leading tools like ChatGPT, NotebookLM, Gemini, and Gamma.
+
+-   Integrate AI to automate tasks and streamline workflows.
+
+-   Utilise AI for content creation, design, and innovative problem-solving.
+
+-   Understand AI's impact on finance, healthcare, and business operations.
+
+-   Apply AI tools through hands-on projects and real-world case studies.
+
+-   Implement AI responsibly, focusing on ethical considerations.
+
+## LinkedIn Optimisation
+
+**Enhance Your Professional Presence**
+
+LinkedIn is a vital platform for career advancement and networking. This course guides you through optimising your LinkedIn profile to attract potential employers, showcase your skills, and expand your professional network effectively.
+
+**What You'll Gain:**
+
+-   Strategies for creating a compelling LinkedIn profile
+
+-   Techniques for showcasing your skills, experiences, and achievements
+
+-   Insights into building and engaging with a professional network
+
+-   Tips for leveraging LinkedIn features for job searching and career growth
+
+-   Best practices for content sharing and personal branding on LinkedIn
+
+## Digital Marketing and Business Venture
+
+**Launch and Grow Your Digital Enterprise**
+
+Effective marketing is crucial for business success in today's digital age. This course covers digital marketing essentials, equipping you with the skills to create, implement, and manage successful online marketing strategies for your business ventures.
+
+**What You'll Gain:**
+
+-   Understanding of digital marketing fundamentals and strategies
+
+-   Skills in search engine optimisation (SEO) and search engine marketing (SEM)
+
+-   Proficiency in social media marketing and content creation
+
+-   Knowledge of email marketing, analytics, and performance measurement
+
+-   Insights into launching and managing digital business ventures
+
+
+------------------------------------------------------------------------
+
+Please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` for data science.
